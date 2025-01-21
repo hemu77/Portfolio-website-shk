@@ -1,6 +1,7 @@
 # Sai Hemanth Kilaru's Portfolio Website
 
 Welcome to the GitHub repository for my personal portfolio website! 🌟
+# Note: Get in touch section has gone through a glitvh,i'm working on it ,until then use email icon on the Top to mail me.
 
 ## 🌐 Live Website
 
