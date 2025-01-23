@@ -28,7 +28,7 @@ This portfolio website is designed to showcase my skills, projects, and professi
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Frameworks/Libraries**: React ,Vite
+- **Frameworks/Libraries**: React ,Vite,TS
 - **Hosting**: [Netlify](https://www.netlify.com)
 
 ---
