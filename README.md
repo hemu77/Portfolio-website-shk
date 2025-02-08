@@ -1,7 +1,7 @@
 # Sai Hemanth Kilaru's Portfolio Website
 
 Welcome to the GitHub repository for my personal portfolio website! 🌟
-# Note: "Get in touch ","Resume download"-section has removed due to the reason as i have shared my entire working code publicly and it contains a few important credentials of mine.
+
 
 ## 🌐 Live Website
 
