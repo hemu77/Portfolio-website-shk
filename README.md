@@ -5,7 +5,7 @@ Welcome to the GitHub repository for my personal portfolio website! 🌟
 
 ## 🌐 Live Website
 
-Visit the portfolio here: [https://sai-hemanth-kilaru-main.netlify.app/](https://sai-hemanth-kilaru-main.netlify.app/)
+Visit the portfolio here: [https://sai-hemanth-kilaru-main.netlify.app/](https://portfolio-website-shk.vercel.app/)
 
 ---
 
